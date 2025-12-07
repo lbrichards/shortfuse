@@ -14,7 +14,7 @@
 ---
 
 ## 📚 Documentation
-[**Click here for Full API Docs & Examples**](docs/shortfuse.html)
+[**Click here for Full API Docs & Examples**](https://lbrichards.github.io/shortfuse/shortfuse.html)
 
 ## 🚀 Quick Start
 
@@ -39,4 +39,4 @@ shortfuse.halt_unless(config.v3_enabled, "Must use V3 Config")
 shortfuse.halt_if_not_none(legacy_client, "Legacy client must be removed")
 ```
 
-For the full visual demonstration of the stack trace, see the [Documentation](docs/shortfuse.html).
+For the full visual demonstration of the stack trace, see the [Documentation](https://lbrichards.github.io/shortfuse/shortfuse.html).
